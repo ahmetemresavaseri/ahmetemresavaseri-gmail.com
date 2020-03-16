@@ -1,0 +1,150 @@
+h1 {
+  top: 50px;
+  position: relative;
+  font-size:60px ;
+  font-family: 'Sacramento', cursive;
+  color:#F7F7F7;
+}
+
+
+
+
+h2 {
+  font-size: 30px;
+  font-family: 'Patrick Hand', cursive;
+
+}
+
+
+
+
+h4 {
+display: inline;
+font-size: 20px;
+  font-family: 'Patrick Hand', cursive;
+
+}
+
+.BinärcodeSchrift {
+  font-family: monospace;
+  font-size: 15px;
+  margin-bottom:
+  color: #003710;
+
+}
+
+
+body {
+  background-color: #7ed5f3;
+  text-align: center;
+}
+
+.ComicAhmet {
+  border-radius: 50%;
+  border: solid 5px;
+  width: 100px;
+  position: fixed;
+  top: 0;
+  left: 2px;
+  display: inline-block;
+}
+
+
+.Titel {
+  margin-top: 62.5%;
+  margin-bottom: 0;
+}
+
+
+
+.Untertitel-ein-Webdeveloper {
+  text-align: center;
+      margin-top: 50px;
+  margin-bottom: 0;
+  font-size: 20px ;
+  font-family: monospace;
+
+
+}
+
+.Hintergrund-Stadt {
+  z-index: -1;
+  position: relative;
+  top: 20px;
+  display: inline;
+  width:1000px;
+}
+
+.Binärcode {
+  margin-top: 50px;
+}
+
+
+
+.ContactMe
+{
+  margin-top: 50px;
+}
+
+
+.KontaktLik {
+
+  font-size: 110%;
+  font-family: 'Patrick Hand', cursive;
+  text-decoration: underline;
+  color: black;
+}
+
+
+
+
+
+
+.Who_I_am {
+  text-align: left;
+  display: inline-block;
+
+}
+
+
+.AhmetPBs {
+  border-radius: 100%;
+  margin-right: 15px;
+  width: 110px;
+  margin-top: 20px;
+
+
+}
+
+.Vorstellen {
+text-align: center;
+
+}
+
+.Hobbys {
+  text-align:left;
+  display:inline-block;
+}
+
+.Webdevelopments {
+  text-align: left;
+display: inline-block;
+
+
+}
+
+.Bizeps {
+  margin-right: 15px;
+  width: 110px;
+  margin-right: 15px;
+    margin-bottom: 60px;
+  display: inline;
+}
+
+.Webdevelop {
+  margin-right: 15px;
+text-align: center;
+  margin-top: 20px;
+  width: 110px;
+display:inline-block;
+}
